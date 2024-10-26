@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "LuckyStar Token"
-  text: "At LuckyStar, we are committed to transparency and innovation in the blockchain space. Explore our tokenomics, roadmap, and join the community to unlock exclusive benefits with LuckyStar Token!"
-  tagline: My great project tagline
+  text: "Great dreams"
+  tagline: LuckyStar Token We believe that "everyone has luck". We are committed to building a fair wealth opportunity platform through blockchain technology, so that every holder has the opportunity to win their own lucky stars.
   actions:
     - theme: brand
       text: Markdown Examples
