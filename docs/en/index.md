@@ -7,7 +7,7 @@ hero:
   text: "great dream"
   tagline: LuckyStar Token Believe that "everyone has luck". We are committed to building a fair wealth opportunity platform through blockchain technology, so that every holder has the opportunity to win his or her own lucky stars.
   image:
-    src: /public/lucky.png
+    src: /lucky.png
     alt: VitePress
   actions:
     - theme: brand
