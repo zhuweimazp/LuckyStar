@@ -12,7 +12,7 @@ export default defineConfig({
       themeConfig:{
         nav:[
           { text: 'Home', link: '/en' },
-          { text: 'Examples', link: '/markdown-examples' }
+          { text: 'telegram', link: 'https://t.me/+FrPdglWVvjY5NGZl' }
         ],
         sidebar: [
           {
@@ -34,8 +34,8 @@ export default defineConfig({
       link: '/zh',
       themeConfig:{
         nav:[
-          { text: '主页', link: '/' },
-          { text: '示例', link: '/markdown-examples' }
+          { text: '主页', link: '/zh' },
+          { text: 'telegram', link: 'https://t.me/+FrPdglWVvjY5NGZl' }
         ],
         // https://vitepress.dev/reference/default-theme-config
         sidebar: [
