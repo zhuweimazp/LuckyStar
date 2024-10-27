@@ -7,7 +7,7 @@ hero:
   text: "伟大的梦想"
   tagline: LuckyStar Token 坚信「每个人都有运气」。我们致力于通过区块链技术构建一个公平的财富机会平台，让每一位持有者都有机会赢得属于自己的幸运星辰。
   image:
-    src: /public/lucky.png
+    src: /lucky.png
     alt: VitePress
   actions:
     - theme: brand
