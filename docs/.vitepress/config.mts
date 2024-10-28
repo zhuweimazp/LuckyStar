@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "LuckyStar Token",
   description: "At LuckyStar, we are committed to transparency and innovation in the blockchain space. Explore our tokenomics, roadmap, and join the community to unlock exclusive benefits with LuckyStar Token!",
+  head: [
+      ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   locales:{
     root: {
       label: 'English',
